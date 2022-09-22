@@ -513,7 +513,7 @@ padding-top: 90px;
 }
 .new .container .content .box .product-btns a{
   color: var(--black);
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   border: 2px solid var(--dark-blue);
   text-transform: uppercase;
   transition: 0.3s;
